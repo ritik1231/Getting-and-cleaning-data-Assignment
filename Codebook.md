@@ -6,15 +6,15 @@ Tidy data contains 180 rows and 68 columns. Each row has averaged variables for 
 mean(): mean value  
 std(): standard deviation  
 ## The data were averaged based on subject and activity group.
--Subject column is numbered sequentially from 1 to 30. Activity column has 6 types as listed below:  
-1             LAYING
-2            SITTING
+Subject column is numbered sequentially from 1 to 30. Activity column has 6 types as listed below:  
+1.             LAYING
+2.            SITTING
 3           STANDING
 4            WALKING
 5 WALKING_DOWNSTAIRS
 6   WALKING_UPSTAIRS
 
--The tidy data contains 6 rows (averaged based on activity) and 88 columns (86 variables and activity labels).  
+The tidy data contains 6 rows (averaged based on activity) and 88 columns (86 variables and activity labels).  
 1                                             subject
 2                                            activity
 3                      TimeBodyAccelerometer.mean...X
